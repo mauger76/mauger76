@@ -1,8 +1,7 @@
 - 👋 bonjour je suis Loane
-- 👀 je suis étudiante à la normandie web school 
+- 👀 je suis étudiante à la normandie web school
 - 🌱 j'aime le sport et voyager
-- 💞️ je suis une ancienne lycéenne 
-  
+- 💞️ je suis titulaire d'un bac général HGGSP/SES
 
 <!---
 mauger76/mauger76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

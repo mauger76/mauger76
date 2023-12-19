@@ -1,8 +1,8 @@
 - 👋 bonjour je suis Loane
 - 👀 je suis étudiante à la normandie web school 
 - 🌱 j'aime le sport et voyager
-- 💞️ ancienne lycéenne 
-- 
+- 💞️ je suis une ancienne lycéenne 
+  
 
 <!---
 mauger76/mauger76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
